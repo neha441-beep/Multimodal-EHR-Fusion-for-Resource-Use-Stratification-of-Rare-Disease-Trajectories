@@ -77,7 +77,7 @@ paper. The prefix (sensitivity) cohort fingerprint is `2112bea1fa23e6d8`.
 | `make_bic_sweep.py` | Supplement: BIC / stability sweep over K. |
 | `verify_physionet.py` | Optional provenance check: rebuilds the cohort from a credentialed MIMIC-IV copy and confirms the fingerprint. |
 | `icd10_diseases.csv` | Orphanet rare-disease ICD-10 mapping. |
-| `bda-run.ipynb` | The original run notebook (outputs cleared). `run_all.py` is the portable equivalent. |
+
 
 ## Notes
 
