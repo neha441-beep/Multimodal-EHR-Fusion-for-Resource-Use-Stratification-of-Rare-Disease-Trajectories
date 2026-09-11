@@ -1,0 +1,77 @@
+,ORPHAcode,PreferredTerm,ICDcodes,n_subjects,n_admissions
+221,893,WAGR syndrome,C64,383,578
+618,171695,Parkinsonian-pyramidal syndrome,G20,908,1597
+679,486,Autosomal dominant severe congenital neutropenia,D70,1311,1890
+804,654,Nephroblastoma,C64,383,578
+844,2828,Young-onset Parkinson disease,G20,908,1597
+861,1331,Familial prostate cancer,C61,801,1195
+1642,2379,Early-onset parkinsonism-intellectual disability syndrome,G20,908,1597
+1644,2390,Lichtenstein syndrome,D70,1311,1890
+1680,247203,Collecting duct carcinoma,C64,383,578
+2515,206538,Malignant non-dysgerminomatous germ cell tumor of ovary,C56,238,455
+2700,213512,Malignant mixed Müllerian tumor of the ovary,C56,238,455
+2701,213504,Adenocarcinoma of ovary,C56,238,455
+2748,213721,Undifferentiated carcinoma of the corpus uteri,C54.0,264,415
+2749,213721,Undifferentiated carcinoma of the corpus uteri,C54.1,264,415
+2750,213721,Undifferentiated carcinoma of the corpus uteri,C54.8,264,415
+2751,213721,Undifferentiated carcinoma of the corpus uteri,C54.2,264,415
+2752,213721,Undifferentiated carcinoma of the corpus uteri,C54.3,264,415
+2753,213721,Undifferentiated carcinoma of the corpus uteri,C54,264,415
+2943,145,Hereditary breast and/or ovarian cancer syndrome,C50.9,238,455
+2944,145,Hereditary breast and/or ovarian cancer syndrome,C56,238,455
+2978,876,Yolk sac tumor,C56,238,455
+2979,876,Yolk sac tumor,C62.9,238,455
+3050,1333,Familial pancreatic carcinoma,C25,705,1530
+3081,228157,Marburg acute multiple sclerosis,G35,519,907
+3177,331176,Severe congenital neutropenia due to G6PC3 deficiency,D70,1311,1890
+3183,330012,High altitude pulmonary edema,J81,1310,1383
+3297,319276,Clear cell renal carcinoma,C64,383,578
+3303,319319,Renal medullary carcinoma,C64,383,578
+3304,319322,Mucinous tubular and spindle cell renal carcinoma,C64,383,578
+3305,319325,Tubulocystic renal cell carcinoma,C64,383,578
+3306,319298,Papillary renal cell carcinoma,C64,383,578
+3307,319303,Chromophobe renal cell carcinoma,C64,383,578
+3308,319308,MiT family translocation renal cell carcinoma,C64,383,578
+3356,370396,Small cell carcinoma of the ovary,C56,238,455
+3395,369852,Congenital neutropenia-myelofibrosis-nephromegaly syndrome,D70,1311,1890
+3438,363654,X-linked parkinsonism-spasticity syndrome,G20,908,1597
+3597,2688,Adult idiopathic neutropenia,D70,1311,1890
+3598,2686,Cyclic neutropenia,D70,1311,1890
+3612,289356,Primary non-gestational choriocarcinoma of ovary,C56,238,455
+3730,306669,Hemiparkinsonism-hemiatrophy syndrome,G20,908,1597
+3831,454723,Endometrioid carcinoma of ovary,C56,238,455
+3883,457246,Clear cell sarcoma of kidney,C64,383,578
+4011,404514,Acquired cystic disease-associated renal cell carcinoma,C64,383,578
+4019,411602,Hereditary late-onset Parkinson disease,G20,908,1597
+4028,411696,Proton-pump inhibitor-responsive esophageal eosinophilia,K20,789,948
+4041,391655,Off-periods in Parkinson disease not responding to oral treatment,G20,908,1597
+4052,391411,Atypical juvenile parkinsonism,G20,908,1597
+4107,398987,Malignant teratoma of ovary,C56,238,455
+4112,398961,Mucinous adenocarcinoma of ovary,C56,238,455
+4113,398971,Clear cell adenocarcinoma of the ovary,C56,238,455
+4215,854,Non-malignant and non-cirrhotic portal vein thrombosis,I81,581,970
+4295,420702,Autosomal recessive severe congenital neutropenia due to CSF3R deficiency,D70,1311,1890
+4305,420699,Autosomal recessive severe congenital neutropenia due to CXCR2 deficiency,D70,1311,1890
+4311,423384,Severe congenital neutropenia due to JAGN1 deficiency,D70,1311,1890
+4316,422526,Hereditary clear cell renal cell carcinoma,C64,383,578
+4369,424002,Squamous cell carcinoma of the rectum,C20,173,351
+4632,523,Hereditary leiomyomatosis and renal cell cancer,C64,383,578
+4657,498228,Phyllodes tumor of the prostate,C61,801,1195
+4779,477738,Pediatric multiple sclerosis,G35,519,907
+4852,70578,Adult acute respiratory distress syndrome,J80,214,219
+4968,60033,Idiopathic bronchiectasis,J47,402,626
+5228,34145,Immunoglobulin A nephropathy,N02,162,230
+5252,35063,Fulminant viral hepatitis,K72,1780,2520
+5322,49566,Acquired purpura fulminans,D65,229,239
+5377,47044,Hereditary papillary renal cell carcinoma,C64,383,578
+5669,91500,Tubulointerstitial nephritis and uveitis syndrome,N10,315,350
+5837,86788,X-linked severe congenital neutropenia,D70,1311,1890
+5984,611237,Parkinsonism with polyneuropathy,G20,908,1597
+6036,97290,Familial papillary thyroid carcinoma with renal papillary neoplasia,C64,529,755
+6037,97290,Familial papillary thyroid carcinoma with renal papillary neoplasia,C73,529,755
+6354,99749,Kostmann syndrome,D70,1311,1890
+6696,100081,Neuroendocrine tumor of the rectum,C20,173,351
+6815,99917,"Theca steroid-producing cell malignant tumor of ovary, not further specified",C56,238,455
+6816,99916,Malignant Sertoli-Leydig cell tumor of the ovary,C56,238,455
+6817,99915,Malignant granulosa cell tumor of the ovary,C56,238,455
+6822,99912,Ovarian dysgerminoma,C56,238,455
