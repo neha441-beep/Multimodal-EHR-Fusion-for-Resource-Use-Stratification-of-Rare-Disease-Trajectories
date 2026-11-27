@@ -1,0 +1,8 @@
+variable,type,status
+ICU length-of-stay hours,resource proxy,Removed from every model input
+Same-admission transfer events,resource proxy,Removed from every model input
+Clinical-note counts and spans,text-derived proxy,No clinical-notes pathway
+Total LOS of admission n,prediction target,Target only; never an input
+ICU status of admission n,prediction target,Target only; never an input
+In-hospital mortality of admission n,target-admission outcome,Never an input
+One-year post-discharge mortality,cluster-validation outcome,Never an encoder input or training target

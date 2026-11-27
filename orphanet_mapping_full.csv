@@ -1,0 +1,77 @@
+source_row,icd_norm,ORPHAcode,PreferredTerm
+0,C64,893,WAGR syndrome
+1,G20,171695,Parkinsonian-pyramidal syndrome
+2,D70,486,Autosomal dominant severe congenital neutropenia
+3,C64,654,Nephroblastoma
+4,G20,2828,Young-onset Parkinson disease
+5,C61,1331,Familial prostate cancer
+6,G20,2379,Early-onset parkinsonism-intellectual disability syndrome
+7,D70,2390,Lichtenstein syndrome
+8,C64,247203,Collecting duct carcinoma
+9,C56,206538,Malignant non-dysgerminomatous germ cell tumor of ovary
+10,C56,213512,Malignant mixed Müllerian tumor of the ovary
+11,C56,213504,Adenocarcinoma of ovary
+12,C540,213721,Undifferentiated carcinoma of the corpus uteri
+13,C541,213721,Undifferentiated carcinoma of the corpus uteri
+14,C548,213721,Undifferentiated carcinoma of the corpus uteri
+15,C542,213721,Undifferentiated carcinoma of the corpus uteri
+16,C543,213721,Undifferentiated carcinoma of the corpus uteri
+17,C54,213721,Undifferentiated carcinoma of the corpus uteri
+18,C509,145,Hereditary breast and/or ovarian cancer syndrome
+19,C56,145,Hereditary breast and/or ovarian cancer syndrome
+20,C56,876,Yolk sac tumor
+21,C629,876,Yolk sac tumor
+22,C25,1333,Familial pancreatic carcinoma
+23,G35,228157,Marburg acute multiple sclerosis
+24,D70,331176,Severe congenital neutropenia due to G6PC3 deficiency
+25,J81,330012,High altitude pulmonary edema
+26,C64,319276,Clear cell renal carcinoma
+27,C64,319319,Renal medullary carcinoma
+28,C64,319322,Mucinous tubular and spindle cell renal carcinoma
+29,C64,319325,Tubulocystic renal cell carcinoma
+30,C64,319298,Papillary renal cell carcinoma
+31,C64,319303,Chromophobe renal cell carcinoma
+32,C64,319308,MiT family translocation renal cell carcinoma
+33,C56,370396,Small cell carcinoma of the ovary
+34,D70,369852,Congenital neutropenia-myelofibrosis-nephromegaly syndrome
+35,G20,363654,X-linked parkinsonism-spasticity syndrome
+36,D70,2688,Adult idiopathic neutropenia
+37,D70,2686,Cyclic neutropenia
+38,C56,289356,Primary non-gestational choriocarcinoma of ovary
+39,G20,306669,Hemiparkinsonism-hemiatrophy syndrome
+40,C56,454723,Endometrioid carcinoma of ovary
+41,C64,457246,Clear cell sarcoma of kidney
+42,C64,404514,Acquired cystic disease-associated renal cell carcinoma
+43,G20,411602,Hereditary late-onset Parkinson disease
+44,K20,411696,Proton-pump inhibitor-responsive esophageal eosinophilia
+45,G20,391655,Off-periods in Parkinson disease not responding to oral treatment
+46,G20,391411,Atypical juvenile parkinsonism
+47,C56,398987,Malignant teratoma of ovary
+48,C56,398961,Mucinous adenocarcinoma of ovary
+49,C56,398971,Clear cell adenocarcinoma of the ovary
+50,I81,854,Non-malignant and non-cirrhotic portal vein thrombosis
+51,D70,420702,Autosomal recessive severe congenital neutropenia due to CSF3R deficiency
+52,D70,420699,Autosomal recessive severe congenital neutropenia due to CXCR2 deficiency
+53,D70,423384,Severe congenital neutropenia due to JAGN1 deficiency
+54,C64,422526,Hereditary clear cell renal cell carcinoma
+55,C20,424002,Squamous cell carcinoma of the rectum
+56,C64,523,Hereditary leiomyomatosis and renal cell cancer
+57,C61,498228,Phyllodes tumor of the prostate
+58,G35,477738,Pediatric multiple sclerosis
+59,J80,70578,Adult acute respiratory distress syndrome
+60,J47,60033,Idiopathic bronchiectasis
+61,N02,34145,Immunoglobulin A nephropathy
+62,K72,35063,Fulminant viral hepatitis
+63,D65,49566,Acquired purpura fulminans
+64,C64,47044,Hereditary papillary renal cell carcinoma
+65,N10,91500,Tubulointerstitial nephritis and uveitis syndrome
+66,D70,86788,X-linked severe congenital neutropenia
+67,G20,611237,Parkinsonism with polyneuropathy
+68,C64,97290,Familial papillary thyroid carcinoma with renal papillary neoplasia
+69,C73,97290,Familial papillary thyroid carcinoma with renal papillary neoplasia
+70,D70,99749,Kostmann syndrome
+71,C20,100081,Neuroendocrine tumor of the rectum
+72,C56,99917,"Theca steroid-producing cell malignant tumor of ovary, not further specified"
+73,C56,99916,Malignant Sertoli-Leydig cell tumor of the ovary
+74,C56,99915,Malignant granulosa cell tumor of the ovary
+75,C56,99912,Ovarian dysgerminoma

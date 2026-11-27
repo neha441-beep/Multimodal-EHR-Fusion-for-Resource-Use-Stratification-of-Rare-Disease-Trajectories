@@ -1,0 +1,15 @@
+icd_norm,icd10_description,n_orphanet_terms,n_patients,n_admissions,ORPHAcode,PreferredTerm,source_row
+G20,Parkinson's disease,9,908,1597,171695,Parkinsonian-pyramidal syndrome,1
+C61,Malignant neoplasm of prostate,2,801,1195,1331,Familial prostate cancer,5
+I81,Portal vein thrombosis,1,581,969,854,Non-malignant and non-cirrhotic portal vein thrombosis,50
+G35,Multiple sclerosis,2,519,907,228157,Marburg acute multiple sclerosis,23
+N10,Acute pyelonephritis,1,315,350,91500,Tubulointerstitial nephritis and uveitis syndrome,65
+C541,Malignant neoplasm of endometrium,1,252,396,213721,Undifferentiated carcinoma of the corpus uteri,13
+D65,Disseminated intravascular coagulation,1,227,237,49566,Acquired purpura fulminans,63
+J80,Acute respiratory distress syndrome,1,213,218,70578,Adult acute respiratory distress syndrome,59
+C20,Malignant neoplasm of rectum,2,173,351,424002,Squamous cell carcinoma of the rectum,55
+C73,Malignant neoplasm of thyroid gland,1,147,181,97290,Familial papillary thyroid carcinoma with renal papillary neoplasia,69
+C548,Malignant neoplasm of overlapping sites of corpus uteri,1,6,6,213721,Undifferentiated carcinoma of the corpus uteri,14
+C543,Malignant neoplasm of fundus uteri,1,5,7,213721,Undifferentiated carcinoma of the corpus uteri,16
+C540,Malignant neoplasm of isthmus uteri,1,2,2,213721,Undifferentiated carcinoma of the corpus uteri,12
+C542,Malignant neoplasm of myometrium,1,2,2,213721,Undifferentiated carcinoma of the corpus uteri,15
